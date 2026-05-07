@@ -1,0 +1,198 @@
+
+=== 2025-10-06 13:37:00.991409 : Mulai dim_tanggal.py ===
+Tidak ada data baru dimasukkan ke dim_tanggal.
+
+=== 2025-10-06 13:37:06.472648 : Selesai dim_tanggal.py ===
+
+=== 2025-10-06 13:38:05.425165 : Mulai dim_tanggal.py ===
+Tidak ada data baru dimasukkan ke dim_tanggal.
+
+=== 2025-10-06 13:38:11.049101 : Selesai dim_tanggal.py ===
+
+=== 2025-10-06 13:40:51.417258 : Mulai dim_tanggal.py ===
+Tidak ada data baru dimasukkan ke dim_tanggal.
+
+=== 2025-10-06 13:40:56.408678 : Selesai dim_tanggal.py ===
+
+=== 2025-10-07 05:00:00.102309 : Mulai dim_tanggal.py ===
+Error: 1364 (HY000): Field 'id' doesn't have a default value
+
+=== 2025-10-07 05:00:04.922400 : Selesai dim_tanggal.py ===
+
+=== 2025-10-08 05:00:01.271694 : Mulai dim_tanggal.py ===
+Tidak ada data baru dimasukkan ke dim_tanggal.
+
+=== 2025-10-08 05:00:02.992983 : Selesai dim_tanggal.py ===
+
+=== 2025-10-09 05:00:01.111366 : Mulai dim_tanggal.py ===
+1 baris baru dimasukkan ke dim_tanggal:
+ - 2025-11-05
+
+=== 2025-10-09 05:00:02.436095 : Selesai dim_tanggal.py ===
+
+=== 2025-10-10 05:00:01.116025 : Mulai dim_tanggal.py ===
+1 baris baru dimasukkan ke dim_tanggal:
+ - 2025-10-15
+
+=== 2025-10-10 05:00:02.409529 : Selesai dim_tanggal.py ===
+
+=== 2025-10-11 05:00:01.189352 : Mulai dim_tanggal.py ===
+1 baris baru dimasukkan ke dim_tanggal:
+ - 2025-11-07
+
+=== 2025-10-11 05:00:02.510881 : Selesai dim_tanggal.py ===
+
+=== 2025-10-12 05:00:01.117656 : Mulai dim_tanggal.py ===
+1 baris baru dimasukkan ke dim_tanggal:
+ - 2025-11-10
+
+=== 2025-10-12 05:00:02.418029 : Selesai dim_tanggal.py ===
+
+=== 2025-10-13 05:00:01.161345 : Mulai dim_tanggal.py ===
+1 baris baru dimasukkan ke dim_tanggal:
+ - 2025-11-01
+
+=== 2025-10-13 05:00:02.504476 : Selesai dim_tanggal.py ===
+
+=== 2025-10-14 05:00:01.135256 : Mulai dim_tanggal.py ===
+Tidak ada data baru dimasukkan ke dim_tanggal.
+
+=== 2025-10-14 05:00:02.429452 : Selesai dim_tanggal.py ===
+
+=== 2025-10-15 05:00:01.156968 : Mulai dim_tanggal.py ===
+1 baris baru dimasukkan ke dim_tanggal:
+ - 2025-10-28
+
+=== 2025-10-15 05:00:02.569599 : Selesai dim_tanggal.py ===
+
+=== 2025-10-16 05:00:01.162477 : Mulai dim_tanggal.py ===
+3 baris baru dimasukkan ke dim_tanggal:
+ - 2025-10-18
+ - 2025-10-22
+ - 2025-11-04
+
+=== 2025-10-16 05:00:02.436992 : Selesai dim_tanggal.py ===
+
+=== 2025-10-17 05:00:01.152278 : Mulai dim_tanggal.py ===
+3 baris baru dimasukkan ke dim_tanggal:
+ - 2025-10-29
+ - 2025-11-08
+ - 2025-11-12
+
+=== 2025-10-17 05:00:02.450499 : Selesai dim_tanggal.py ===
+
+=== 2025-10-18 05:00:01.151286 : Mulai dim_tanggal.py ===
+Tidak ada data baru dimasukkan ke dim_tanggal.
+
+=== 2025-10-18 05:00:02.574026 : Selesai dim_tanggal.py ===
+
+=== 2025-10-19 05:00:01.167808 : Mulai dim_tanggal.py ===
+Tidak ada data baru dimasukkan ke dim_tanggal.
+
+=== 2025-10-19 05:00:02.483312 : Selesai dim_tanggal.py ===
+
+=== 2025-10-20 05:00:01.163474 : Mulai dim_tanggal.py ===
+1 baris baru dimasukkan ke dim_tanggal:
+ - 2025-11-13
+
+=== 2025-10-20 05:00:02.512658 : Selesai dim_tanggal.py ===
+
+=== 2025-10-21 05:00:01.158010 : Mulai dim_tanggal.py ===
+1 baris baru dimasukkan ke dim_tanggal:
+ - 2025-10-25
+
+=== 2025-10-21 05:00:02.545902 : Selesai dim_tanggal.py ===
+
+=== 2025-10-22 05:00:01.162774 : Mulai dim_tanggal.py ===
+1 baris baru dimasukkan ke dim_tanggal:
+ - 2025-11-11
+
+=== 2025-10-22 05:00:02.512580 : Selesai dim_tanggal.py ===
+
+=== 2025-10-23 05:00:01.192840 : Mulai dim_tanggal.py ===
+Tidak ada data baru dimasukkan ke dim_tanggal.
+
+=== 2025-10-23 05:00:02.576136 : Selesai dim_tanggal.py ===
+
+=== 2025-10-24 05:00:01.182655 : Mulai dim_tanggal.py ===
+4 baris baru dimasukkan ke dim_tanggal:
+ - 2025-11-14
+ - 2025-11-17
+ - 2025-11-18
+ - 2025-11-21
+
+=== 2025-10-24 05:00:02.551608 : Selesai dim_tanggal.py ===
+
+=== 2025-10-25 05:00:01.280581 : Mulai dim_tanggal.py ===
+4 baris baru dimasukkan ke dim_tanggal:
+ - 2025-10-30
+ - 2025-10-31
+ - 2025-11-06
+ - 2025-11-22
+
+=== 2025-10-25 05:00:02.908004 : Selesai dim_tanggal.py ===
+
+=== 2025-10-26 05:00:01.338009 : Mulai dim_tanggal.py ===
+1 baris baru dimasukkan ke dim_tanggal:
+ - 2025-11-15
+
+=== 2025-10-26 05:00:03.159417 : Selesai dim_tanggal.py ===
+
+=== 2025-10-27 05:00:01.211944 : Mulai dim_tanggal.py ===
+2 baris baru dimasukkan ke dim_tanggal:
+ - 2025-11-20
+ - 2025-11-23
+
+=== 2025-10-27 05:00:02.646041 : Selesai dim_tanggal.py ===
+
+=== 2025-10-28 05:00:01.291743 : Mulai dim_tanggal.py ===
+2 baris baru dimasukkan ke dim_tanggal:
+ - 2025-11-24
+ - 2025-11-25
+
+=== 2025-10-28 05:00:02.844733 : Selesai dim_tanggal.py ===
+
+=== 2025-10-29 05:00:01.327912 : Mulai dim_tanggal.py ===
+Tidak ada data baru dimasukkan ke dim_tanggal.
+
+=== 2025-10-29 05:00:02.825238 : Selesai dim_tanggal.py ===
+
+=== 2025-10-30 05:00:01.743307 : Mulai dim_tanggal.py ===
+1 baris baru dimasukkan ke dim_tanggal:
+ - 2025-11-09
+
+=== 2025-10-30 05:00:03.377795 : Selesai dim_tanggal.py ===
+
+=== 2025-10-31 05:00:01.674506 : Mulai dim_tanggal.py ===
+Tidak ada data baru dimasukkan ke dim_tanggal.
+
+=== 2025-10-31 05:00:03.127987 : Selesai dim_tanggal.py ===
+
+=== 2025-11-01 05:00:01.674155 : Mulai dim_tanggal.py ===
+1 baris baru dimasukkan ke dim_tanggal:
+ - 2025-11-28
+
+=== 2025-11-01 05:00:03.073574 : Selesai dim_tanggal.py ===
+
+=== 2025-11-02 05:00:01.654451 : Mulai dim_tanggal.py ===
+Tidak ada data baru dimasukkan ke dim_tanggal.
+
+=== 2025-11-02 05:00:03.002179 : Selesai dim_tanggal.py ===
+
+=== 2025-11-03 05:00:01.694389 : Mulai dim_tanggal.py ===
+Tidak ada data baru dimasukkan ke dim_tanggal.
+
+=== 2025-11-03 05:00:03.055405 : Selesai dim_tanggal.py ===
+
+=== 2025-11-04 05:00:01.708882 : Mulai dim_tanggal.py ===
+1 baris baru dimasukkan ke dim_tanggal:
+ - 2025-11-19
+
+=== 2025-11-04 05:00:03.063132 : Selesai dim_tanggal.py ===
+
+=== 2025-11-05 05:00:01.712901 : Mulai dim_tanggal.py ===
+2 baris baru dimasukkan ke dim_tanggal:
+ - 2025-12-01
+ - 2025-12-02
+
+=== 2025-11-05 05:00:03.070102 : Selesai dim_tanggal.py ===

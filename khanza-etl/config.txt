@@ -1,0 +1,14 @@
+{
+    "source_config": {
+        "host": "localhost",
+        "user": "root",
+        "password": "",
+        "database": "database_sumber"
+    },
+    "target_config": {
+        "host": "localhost",
+        "user": "root",
+        "password": "",
+        "database": "database_target"
+    }
+}

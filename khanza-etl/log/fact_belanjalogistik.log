@@ -1,0 +1,384 @@
+
+=== 2025-10-06 13:37:34.862418 : Mulai fact_belanjalogistik.py ===
+1789 baris berhasil dimasukkan ke fact_belanjalogistik di database 'dwmutiara'.
+
+[ERROR]
+E:\Downloads\visuadata\khanza-etl\fact_belanjalogistik.py:35: UserWarning: pandas only supports SQLAlchemy connectable (engine/connection) or database string URI or sqlite3 DBAPI2 connection. Other DBAPI2 objects are not tested. Please consider using SQLAlchemy.
+  df_header = pd.read_sql(query_header, source_conn)
+E:\Downloads\visuadata\khanza-etl\fact_belanjalogistik.py:49: UserWarning: pandas only supports SQLAlchemy connectable (engine/connection) or database string URI or sqlite3 DBAPI2 connection. Other DBAPI2 objects are not tested. Please consider using SQLAlchemy.
+  df_detail = pd.read_sql(query_detail, source_conn)
+
+=== 2025-10-06 13:37:35.705942 : Selesai fact_belanjalogistik.py ===
+
+=== 2025-10-06 13:38:39.015232 : Mulai fact_belanjalogistik.py ===
+1789 baris berhasil dimasukkan ke fact_belanjalogistik di database 'dwmutiara'.
+
+[ERROR]
+E:\Downloads\visuadata\khanza-etl\fact_belanjalogistik.py:35: UserWarning: pandas only supports SQLAlchemy connectable (engine/connection) or database string URI or sqlite3 DBAPI2 connection. Other DBAPI2 objects are not tested. Please consider using SQLAlchemy.
+  df_header = pd.read_sql(query_header, source_conn)
+E:\Downloads\visuadata\khanza-etl\fact_belanjalogistik.py:49: UserWarning: pandas only supports SQLAlchemy connectable (engine/connection) or database string URI or sqlite3 DBAPI2 connection. Other DBAPI2 objects are not tested. Please consider using SQLAlchemy.
+  df_detail = pd.read_sql(query_detail, source_conn)
+
+=== 2025-10-06 13:38:39.842326 : Selesai fact_belanjalogistik.py ===
+
+=== 2025-10-06 13:41:25.159483 : Mulai fact_belanjalogistik.py ===
+1789 baris berhasil dimasukkan ke fact_belanjalogistik di database 'dwmutiara'.
+
+[ERROR]
+E:\Downloads\visuadata\khanza-etl\fact_belanjalogistik.py:35: UserWarning: pandas only supports SQLAlchemy connectable (engine/connection) or database string URI or sqlite3 DBAPI2 connection. Other DBAPI2 objects are not tested. Please consider using SQLAlchemy.
+  df_header = pd.read_sql(query_header, source_conn)
+E:\Downloads\visuadata\khanza-etl\fact_belanjalogistik.py:49: UserWarning: pandas only supports SQLAlchemy connectable (engine/connection) or database string URI or sqlite3 DBAPI2 connection. Other DBAPI2 objects are not tested. Please consider using SQLAlchemy.
+  df_detail = pd.read_sql(query_detail, source_conn)
+
+=== 2025-10-06 13:41:25.988404 : Selesai fact_belanjalogistik.py ===
+
+=== 2025-10-07 05:00:32.715206 : Mulai fact_belanjalogistik.py ===
+1789 baris berhasil dimasukkan ke fact_belanjalogistik di database 'dwmutiara'.
+
+[ERROR]
+E:\Downloads\visuadata\khanza-etl\fact_belanjalogistik.py:35: UserWarning: pandas only supports SQLAlchemy connectable (engine/connection) or database string URI or sqlite3 DBAPI2 connection. Other DBAPI2 objects are not tested. Please consider using SQLAlchemy.
+  df_header = pd.read_sql(query_header, source_conn)
+E:\Downloads\visuadata\khanza-etl\fact_belanjalogistik.py:49: UserWarning: pandas only supports SQLAlchemy connectable (engine/connection) or database string URI or sqlite3 DBAPI2 connection. Other DBAPI2 objects are not tested. Please consider using SQLAlchemy.
+  df_detail = pd.read_sql(query_detail, source_conn)
+
+=== 2025-10-07 05:00:34.324143 : Selesai fact_belanjalogistik.py ===
+
+=== 2025-10-08 05:00:32.425063 : Mulai fact_belanjalogistik.py ===
+
+[ERROR]
+Traceback (most recent call last):
+  File "E:\Downloads\visuadata\khanza-etl\fact_belanjalogistik.py", line 2, in <module>
+    import pandas as pd
+  File "C:\Users\Mutiara Bunda\AppData\Local\Programs\Python\Python313\Lib\site-packages\pandas\__init__.py", line 62, in <module>
+    from pandas.core.api import (
+    ...<62 lines>...
+    )
+  File "C:\Users\Mutiara Bunda\AppData\Local\Programs\Python\Python313\Lib\site-packages\pandas\core\api.py", line 47, in <module>
+    from pandas.core.groupby import (
+    ...<2 lines>...
+    )
+  File "C:\Users\Mutiara Bunda\AppData\Local\Programs\Python\Python313\Lib\site-packages\pandas\core\groupby\__init__.py", line 1, in <module>
+    from pandas.core.groupby.generic import (
+    ...<3 lines>...
+    )
+  File "C:\Users\Mutiara Bunda\AppData\Local\Programs\Python\Python313\Lib\site-packages\pandas\core\groupby\generic.py", line 68, in <module>
+    from pandas.core.frame import DataFrame
+  File "C:\Users\Mutiara Bunda\AppData\Local\Programs\Python\Python313\Lib\site-packages\pandas\core\frame.py", line 188, in <module>
+    from pandas.core.series import Series
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 1022, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1155, in get_code
+  File "<frozen importlib._bootstrap_external>", line 784, in _compile_bytecode
+MemoryError
+
+=== 2025-10-08 05:00:38.912020 : Selesai fact_belanjalogistik.py ===
+
+=== 2025-10-09 05:00:29.036821 : Mulai fact_belanjalogistik.py ===
+1789 baris berhasil dimasukkan ke fact_belanjalogistik di database 'dwmutiara'.
+
+[ERROR]
+E:\Downloads\visuadata\khanza-etl\fact_belanjalogistik.py:35: UserWarning: pandas only supports SQLAlchemy connectable (engine/connection) or database string URI or sqlite3 DBAPI2 connection. Other DBAPI2 objects are not tested. Please consider using SQLAlchemy.
+  df_header = pd.read_sql(query_header, source_conn)
+E:\Downloads\visuadata\khanza-etl\fact_belanjalogistik.py:49: UserWarning: pandas only supports SQLAlchemy connectable (engine/connection) or database string URI or sqlite3 DBAPI2 connection. Other DBAPI2 objects are not tested. Please consider using SQLAlchemy.
+  df_detail = pd.read_sql(query_detail, source_conn)
+
+=== 2025-10-09 05:00:29.892538 : Selesai fact_belanjalogistik.py ===
+
+=== 2025-10-10 05:00:30.922103 : Mulai fact_belanjalogistik.py ===
+1789 baris berhasil dimasukkan ke fact_belanjalogistik di database 'dwmutiara'.
+
+[ERROR]
+E:\Downloads\visuadata\khanza-etl\fact_belanjalogistik.py:35: UserWarning: pandas only supports SQLAlchemy connectable (engine/connection) or database string URI or sqlite3 DBAPI2 connection. Other DBAPI2 objects are not tested. Please consider using SQLAlchemy.
+  df_header = pd.read_sql(query_header, source_conn)
+E:\Downloads\visuadata\khanza-etl\fact_belanjalogistik.py:49: UserWarning: pandas only supports SQLAlchemy connectable (engine/connection) or database string URI or sqlite3 DBAPI2 connection. Other DBAPI2 objects are not tested. Please consider using SQLAlchemy.
+  df_detail = pd.read_sql(query_detail, source_conn)
+
+=== 2025-10-10 05:00:31.839128 : Selesai fact_belanjalogistik.py ===
+
+=== 2025-10-11 05:00:29.307399 : Mulai fact_belanjalogistik.py ===
+1789 baris berhasil dimasukkan ke fact_belanjalogistik di database 'dwmutiara'.
+
+[ERROR]
+E:\Downloads\visuadata\khanza-etl\fact_belanjalogistik.py:35: UserWarning: pandas only supports SQLAlchemy connectable (engine/connection) or database string URI or sqlite3 DBAPI2 connection. Other DBAPI2 objects are not tested. Please consider using SQLAlchemy.
+  df_header = pd.read_sql(query_header, source_conn)
+E:\Downloads\visuadata\khanza-etl\fact_belanjalogistik.py:49: UserWarning: pandas only supports SQLAlchemy connectable (engine/connection) or database string URI or sqlite3 DBAPI2 connection. Other DBAPI2 objects are not tested. Please consider using SQLAlchemy.
+  df_detail = pd.read_sql(query_detail, source_conn)
+
+=== 2025-10-11 05:00:30.206280 : Selesai fact_belanjalogistik.py ===
+
+=== 2025-10-12 05:00:28.675112 : Mulai fact_belanjalogistik.py ===
+1789 baris berhasil dimasukkan ke fact_belanjalogistik di database 'dwmutiara'.
+
+[ERROR]
+E:\Downloads\visuadata\khanza-etl\fact_belanjalogistik.py:35: UserWarning: pandas only supports SQLAlchemy connectable (engine/connection) or database string URI or sqlite3 DBAPI2 connection. Other DBAPI2 objects are not tested. Please consider using SQLAlchemy.
+  df_header = pd.read_sql(query_header, source_conn)
+E:\Downloads\visuadata\khanza-etl\fact_belanjalogistik.py:49: UserWarning: pandas only supports SQLAlchemy connectable (engine/connection) or database string URI or sqlite3 DBAPI2 connection. Other DBAPI2 objects are not tested. Please consider using SQLAlchemy.
+  df_detail = pd.read_sql(query_detail, source_conn)
+
+=== 2025-10-12 05:00:29.552929 : Selesai fact_belanjalogistik.py ===
+
+=== 2025-10-13 05:00:29.654182 : Mulai fact_belanjalogistik.py ===
+1789 baris berhasil dimasukkan ke fact_belanjalogistik di database 'dwmutiara'.
+
+[ERROR]
+E:\Downloads\visuadata\khanza-etl\fact_belanjalogistik.py:35: UserWarning: pandas only supports SQLAlchemy connectable (engine/connection) or database string URI or sqlite3 DBAPI2 connection. Other DBAPI2 objects are not tested. Please consider using SQLAlchemy.
+  df_header = pd.read_sql(query_header, source_conn)
+E:\Downloads\visuadata\khanza-etl\fact_belanjalogistik.py:49: UserWarning: pandas only supports SQLAlchemy connectable (engine/connection) or database string URI or sqlite3 DBAPI2 connection. Other DBAPI2 objects are not tested. Please consider using SQLAlchemy.
+  df_detail = pd.read_sql(query_detail, source_conn)
+
+=== 2025-10-13 05:00:30.516212 : Selesai fact_belanjalogistik.py ===
+
+=== 2025-10-14 05:00:29.567401 : Mulai fact_belanjalogistik.py ===
+1789 baris berhasil dimasukkan ke fact_belanjalogistik di database 'dwmutiara'.
+
+[ERROR]
+E:\Downloads\visuadata\khanza-etl\fact_belanjalogistik.py:35: UserWarning: pandas only supports SQLAlchemy connectable (engine/connection) or database string URI or sqlite3 DBAPI2 connection. Other DBAPI2 objects are not tested. Please consider using SQLAlchemy.
+  df_header = pd.read_sql(query_header, source_conn)
+E:\Downloads\visuadata\khanza-etl\fact_belanjalogistik.py:49: UserWarning: pandas only supports SQLAlchemy connectable (engine/connection) or database string URI or sqlite3 DBAPI2 connection. Other DBAPI2 objects are not tested. Please consider using SQLAlchemy.
+  df_detail = pd.read_sql(query_detail, source_conn)
+
+=== 2025-10-14 05:00:30.447356 : Selesai fact_belanjalogistik.py ===
+
+=== 2025-10-15 05:00:31.371265 : Mulai fact_belanjalogistik.py ===
+1789 baris berhasil dimasukkan ke fact_belanjalogistik di database 'dwmutiara'.
+
+[ERROR]
+E:\Downloads\visuadata\khanza-etl\fact_belanjalogistik.py:35: UserWarning: pandas only supports SQLAlchemy connectable (engine/connection) or database string URI or sqlite3 DBAPI2 connection. Other DBAPI2 objects are not tested. Please consider using SQLAlchemy.
+  df_header = pd.read_sql(query_header, source_conn)
+E:\Downloads\visuadata\khanza-etl\fact_belanjalogistik.py:49: UserWarning: pandas only supports SQLAlchemy connectable (engine/connection) or database string URI or sqlite3 DBAPI2 connection. Other DBAPI2 objects are not tested. Please consider using SQLAlchemy.
+  df_detail = pd.read_sql(query_detail, source_conn)
+
+=== 2025-10-15 05:00:32.361295 : Selesai fact_belanjalogistik.py ===
+
+=== 2025-10-16 05:00:30.124193 : Mulai fact_belanjalogistik.py ===
+1789 baris berhasil dimasukkan ke fact_belanjalogistik di database 'dwmutiara'.
+
+[ERROR]
+E:\Downloads\visuadata\khanza-etl\fact_belanjalogistik.py:35: UserWarning: pandas only supports SQLAlchemy connectable (engine/connection) or database string URI or sqlite3 DBAPI2 connection. Other DBAPI2 objects are not tested. Please consider using SQLAlchemy.
+  df_header = pd.read_sql(query_header, source_conn)
+E:\Downloads\visuadata\khanza-etl\fact_belanjalogistik.py:49: UserWarning: pandas only supports SQLAlchemy connectable (engine/connection) or database string URI or sqlite3 DBAPI2 connection. Other DBAPI2 objects are not tested. Please consider using SQLAlchemy.
+  df_detail = pd.read_sql(query_detail, source_conn)
+
+=== 2025-10-16 05:00:31.065754 : Selesai fact_belanjalogistik.py ===
+
+=== 2025-10-17 05:00:30.826154 : Mulai fact_belanjalogistik.py ===
+1789 baris berhasil dimasukkan ke fact_belanjalogistik di database 'dwmutiara'.
+
+[ERROR]
+E:\Downloads\visuadata\khanza-etl\fact_belanjalogistik.py:35: UserWarning: pandas only supports SQLAlchemy connectable (engine/connection) or database string URI or sqlite3 DBAPI2 connection. Other DBAPI2 objects are not tested. Please consider using SQLAlchemy.
+  df_header = pd.read_sql(query_header, source_conn)
+E:\Downloads\visuadata\khanza-etl\fact_belanjalogistik.py:49: UserWarning: pandas only supports SQLAlchemy connectable (engine/connection) or database string URI or sqlite3 DBAPI2 connection. Other DBAPI2 objects are not tested. Please consider using SQLAlchemy.
+  df_detail = pd.read_sql(query_detail, source_conn)
+
+=== 2025-10-17 05:00:31.831590 : Selesai fact_belanjalogistik.py ===
+
+=== 2025-10-18 05:00:29.717368 : Mulai fact_belanjalogistik.py ===
+1789 baris berhasil dimasukkan ke fact_belanjalogistik di database 'dwmutiara'.
+
+[ERROR]
+E:\Downloads\visuadata\khanza-etl\fact_belanjalogistik.py:35: UserWarning: pandas only supports SQLAlchemy connectable (engine/connection) or database string URI or sqlite3 DBAPI2 connection. Other DBAPI2 objects are not tested. Please consider using SQLAlchemy.
+  df_header = pd.read_sql(query_header, source_conn)
+E:\Downloads\visuadata\khanza-etl\fact_belanjalogistik.py:49: UserWarning: pandas only supports SQLAlchemy connectable (engine/connection) or database string URI or sqlite3 DBAPI2 connection. Other DBAPI2 objects are not tested. Please consider using SQLAlchemy.
+  df_detail = pd.read_sql(query_detail, source_conn)
+
+=== 2025-10-18 05:00:31.349635 : Selesai fact_belanjalogistik.py ===
+
+=== 2025-10-19 05:00:28.497365 : Mulai fact_belanjalogistik.py ===
+1789 baris berhasil dimasukkan ke fact_belanjalogistik di database 'dwmutiara'.
+
+[ERROR]
+E:\Downloads\visuadata\khanza-etl\fact_belanjalogistik.py:35: UserWarning: pandas only supports SQLAlchemy connectable (engine/connection) or database string URI or sqlite3 DBAPI2 connection. Other DBAPI2 objects are not tested. Please consider using SQLAlchemy.
+  df_header = pd.read_sql(query_header, source_conn)
+E:\Downloads\visuadata\khanza-etl\fact_belanjalogistik.py:49: UserWarning: pandas only supports SQLAlchemy connectable (engine/connection) or database string URI or sqlite3 DBAPI2 connection. Other DBAPI2 objects are not tested. Please consider using SQLAlchemy.
+  df_detail = pd.read_sql(query_detail, source_conn)
+
+=== 2025-10-19 05:00:29.326434 : Selesai fact_belanjalogistik.py ===
+
+=== 2025-10-20 05:00:28.399013 : Mulai fact_belanjalogistik.py ===
+1789 baris berhasil dimasukkan ke fact_belanjalogistik di database 'dwmutiara'.
+
+[ERROR]
+E:\Downloads\visuadata\khanza-etl\fact_belanjalogistik.py:35: UserWarning: pandas only supports SQLAlchemy connectable (engine/connection) or database string URI or sqlite3 DBAPI2 connection. Other DBAPI2 objects are not tested. Please consider using SQLAlchemy.
+  df_header = pd.read_sql(query_header, source_conn)
+E:\Downloads\visuadata\khanza-etl\fact_belanjalogistik.py:49: UserWarning: pandas only supports SQLAlchemy connectable (engine/connection) or database string URI or sqlite3 DBAPI2 connection. Other DBAPI2 objects are not tested. Please consider using SQLAlchemy.
+  df_detail = pd.read_sql(query_detail, source_conn)
+
+=== 2025-10-20 05:00:29.237099 : Selesai fact_belanjalogistik.py ===
+
+=== 2025-10-21 05:00:29.501893 : Mulai fact_belanjalogistik.py ===
+1789 baris berhasil dimasukkan ke fact_belanjalogistik di database 'dwmutiara'.
+
+[ERROR]
+E:\Downloads\visuadata\khanza-etl\fact_belanjalogistik.py:35: UserWarning: pandas only supports SQLAlchemy connectable (engine/connection) or database string URI or sqlite3 DBAPI2 connection. Other DBAPI2 objects are not tested. Please consider using SQLAlchemy.
+  df_header = pd.read_sql(query_header, source_conn)
+E:\Downloads\visuadata\khanza-etl\fact_belanjalogistik.py:49: UserWarning: pandas only supports SQLAlchemy connectable (engine/connection) or database string URI or sqlite3 DBAPI2 connection. Other DBAPI2 objects are not tested. Please consider using SQLAlchemy.
+  df_detail = pd.read_sql(query_detail, source_conn)
+
+=== 2025-10-21 05:00:30.358050 : Selesai fact_belanjalogistik.py ===
+
+=== 2025-10-22 05:00:31.310698 : Mulai fact_belanjalogistik.py ===
+1790 baris berhasil dimasukkan ke fact_belanjalogistik di database 'dwmutiara'.
+
+[ERROR]
+E:\Downloads\visuadata\khanza-etl\fact_belanjalogistik.py:35: UserWarning: pandas only supports SQLAlchemy connectable (engine/connection) or database string URI or sqlite3 DBAPI2 connection. Other DBAPI2 objects are not tested. Please consider using SQLAlchemy.
+  df_header = pd.read_sql(query_header, source_conn)
+E:\Downloads\visuadata\khanza-etl\fact_belanjalogistik.py:49: UserWarning: pandas only supports SQLAlchemy connectable (engine/connection) or database string URI or sqlite3 DBAPI2 connection. Other DBAPI2 objects are not tested. Please consider using SQLAlchemy.
+  df_detail = pd.read_sql(query_detail, source_conn)
+
+=== 2025-10-22 05:00:32.141287 : Selesai fact_belanjalogistik.py ===
+
+=== 2025-10-23 05:00:30.132760 : Mulai fact_belanjalogistik.py ===
+1790 baris berhasil dimasukkan ke fact_belanjalogistik di database 'dwmutiara'.
+
+[ERROR]
+E:\Downloads\visuadata\khanza-etl\fact_belanjalogistik.py:35: UserWarning: pandas only supports SQLAlchemy connectable (engine/connection) or database string URI or sqlite3 DBAPI2 connection. Other DBAPI2 objects are not tested. Please consider using SQLAlchemy.
+  df_header = pd.read_sql(query_header, source_conn)
+E:\Downloads\visuadata\khanza-etl\fact_belanjalogistik.py:49: UserWarning: pandas only supports SQLAlchemy connectable (engine/connection) or database string URI or sqlite3 DBAPI2 connection. Other DBAPI2 objects are not tested. Please consider using SQLAlchemy.
+  df_detail = pd.read_sql(query_detail, source_conn)
+
+=== 2025-10-23 05:00:31.133613 : Selesai fact_belanjalogistik.py ===
+
+=== 2025-10-24 05:00:29.632395 : Mulai fact_belanjalogistik.py ===
+1790 baris berhasil dimasukkan ke fact_belanjalogistik di database 'dwmutiara'.
+
+[ERROR]
+E:\Downloads\visuadata\khanza-etl\fact_belanjalogistik.py:35: UserWarning: pandas only supports SQLAlchemy connectable (engine/connection) or database string URI or sqlite3 DBAPI2 connection. Other DBAPI2 objects are not tested. Please consider using SQLAlchemy.
+  df_header = pd.read_sql(query_header, source_conn)
+E:\Downloads\visuadata\khanza-etl\fact_belanjalogistik.py:49: UserWarning: pandas only supports SQLAlchemy connectable (engine/connection) or database string URI or sqlite3 DBAPI2 connection. Other DBAPI2 objects are not tested. Please consider using SQLAlchemy.
+  df_detail = pd.read_sql(query_detail, source_conn)
+
+=== 2025-10-24 05:00:31.789259 : Selesai fact_belanjalogistik.py ===
+
+=== 2025-10-25 05:00:30.332581 : Mulai fact_belanjalogistik.py ===
+1790 baris berhasil dimasukkan ke fact_belanjalogistik di database 'dwmutiara'.
+
+[ERROR]
+E:\Downloads\visuadata\khanza-etl\fact_belanjalogistik.py:35: UserWarning: pandas only supports SQLAlchemy connectable (engine/connection) or database string URI or sqlite3 DBAPI2 connection. Other DBAPI2 objects are not tested. Please consider using SQLAlchemy.
+  df_header = pd.read_sql(query_header, source_conn)
+E:\Downloads\visuadata\khanza-etl\fact_belanjalogistik.py:49: UserWarning: pandas only supports SQLAlchemy connectable (engine/connection) or database string URI or sqlite3 DBAPI2 connection. Other DBAPI2 objects are not tested. Please consider using SQLAlchemy.
+  df_detail = pd.read_sql(query_detail, source_conn)
+
+=== 2025-10-25 05:00:32.509400 : Selesai fact_belanjalogistik.py ===
+
+=== 2025-10-26 05:00:31.138001 : Mulai fact_belanjalogistik.py ===
+1790 baris berhasil dimasukkan ke fact_belanjalogistik di database 'dwmutiara'.
+
+[ERROR]
+E:\Downloads\visuadata\khanza-etl\fact_belanjalogistik.py:35: UserWarning: pandas only supports SQLAlchemy connectable (engine/connection) or database string URI or sqlite3 DBAPI2 connection. Other DBAPI2 objects are not tested. Please consider using SQLAlchemy.
+  df_header = pd.read_sql(query_header, source_conn)
+E:\Downloads\visuadata\khanza-etl\fact_belanjalogistik.py:49: UserWarning: pandas only supports SQLAlchemy connectable (engine/connection) or database string URI or sqlite3 DBAPI2 connection. Other DBAPI2 objects are not tested. Please consider using SQLAlchemy.
+  df_detail = pd.read_sql(query_detail, source_conn)
+
+=== 2025-10-26 05:00:36.844705 : Selesai fact_belanjalogistik.py ===
+
+=== 2025-10-27 05:00:29.864006 : Mulai fact_belanjalogistik.py ===
+1790 baris berhasil dimasukkan ke fact_belanjalogistik di database 'dwmutiara'.
+
+[ERROR]
+E:\Downloads\visuadata\khanza-etl\fact_belanjalogistik.py:35: UserWarning: pandas only supports SQLAlchemy connectable (engine/connection) or database string URI or sqlite3 DBAPI2 connection. Other DBAPI2 objects are not tested. Please consider using SQLAlchemy.
+  df_header = pd.read_sql(query_header, source_conn)
+E:\Downloads\visuadata\khanza-etl\fact_belanjalogistik.py:49: UserWarning: pandas only supports SQLAlchemy connectable (engine/connection) or database string URI or sqlite3 DBAPI2 connection. Other DBAPI2 objects are not tested. Please consider using SQLAlchemy.
+  df_detail = pd.read_sql(query_detail, source_conn)
+
+=== 2025-10-27 05:00:31.964205 : Selesai fact_belanjalogistik.py ===
+
+=== 2025-10-28 05:00:30.866758 : Mulai fact_belanjalogistik.py ===
+1790 baris berhasil dimasukkan ke fact_belanjalogistik di database 'dwmutiara'.
+
+[ERROR]
+E:\Downloads\visuadata\khanza-etl\fact_belanjalogistik.py:35: UserWarning: pandas only supports SQLAlchemy connectable (engine/connection) or database string URI or sqlite3 DBAPI2 connection. Other DBAPI2 objects are not tested. Please consider using SQLAlchemy.
+  df_header = pd.read_sql(query_header, source_conn)
+E:\Downloads\visuadata\khanza-etl\fact_belanjalogistik.py:49: UserWarning: pandas only supports SQLAlchemy connectable (engine/connection) or database string URI or sqlite3 DBAPI2 connection. Other DBAPI2 objects are not tested. Please consider using SQLAlchemy.
+  df_detail = pd.read_sql(query_detail, source_conn)
+
+=== 2025-10-28 05:00:33.090065 : Selesai fact_belanjalogistik.py ===
+
+=== 2025-10-29 05:00:31.539619 : Mulai fact_belanjalogistik.py ===
+1790 baris berhasil dimasukkan ke fact_belanjalogistik di database 'dwmutiara'.
+
+[ERROR]
+E:\Downloads\visuadata\khanza-etl\fact_belanjalogistik.py:35: UserWarning: pandas only supports SQLAlchemy connectable (engine/connection) or database string URI or sqlite3 DBAPI2 connection. Other DBAPI2 objects are not tested. Please consider using SQLAlchemy.
+  df_header = pd.read_sql(query_header, source_conn)
+E:\Downloads\visuadata\khanza-etl\fact_belanjalogistik.py:49: UserWarning: pandas only supports SQLAlchemy connectable (engine/connection) or database string URI or sqlite3 DBAPI2 connection. Other DBAPI2 objects are not tested. Please consider using SQLAlchemy.
+  df_detail = pd.read_sql(query_detail, source_conn)
+
+=== 2025-10-29 05:00:33.758894 : Selesai fact_belanjalogistik.py ===
+
+=== 2025-10-30 05:00:30.469453 : Mulai fact_belanjalogistik.py ===
+1790 baris berhasil dimasukkan ke fact_belanjalogistik di database 'dwmutiara'.
+
+[ERROR]
+E:\Downloads\visuadata\khanza-etl\fact_belanjalogistik.py:35: UserWarning: pandas only supports SQLAlchemy connectable (engine/connection) or database string URI or sqlite3 DBAPI2 connection. Other DBAPI2 objects are not tested. Please consider using SQLAlchemy.
+  df_header = pd.read_sql(query_header, source_conn)
+E:\Downloads\visuadata\khanza-etl\fact_belanjalogistik.py:49: UserWarning: pandas only supports SQLAlchemy connectable (engine/connection) or database string URI or sqlite3 DBAPI2 connection. Other DBAPI2 objects are not tested. Please consider using SQLAlchemy.
+  df_detail = pd.read_sql(query_detail, source_conn)
+
+=== 2025-10-30 05:00:32.933000 : Selesai fact_belanjalogistik.py ===
+
+=== 2025-10-31 05:00:30.994452 : Mulai fact_belanjalogistik.py ===
+1790 baris berhasil dimasukkan ke fact_belanjalogistik di database 'dwmutiara'.
+
+[ERROR]
+E:\Downloads\visuadata\khanza-etl\fact_belanjalogistik.py:35: UserWarning: pandas only supports SQLAlchemy connectable (engine/connection) or database string URI or sqlite3 DBAPI2 connection. Other DBAPI2 objects are not tested. Please consider using SQLAlchemy.
+  df_header = pd.read_sql(query_header, source_conn)
+E:\Downloads\visuadata\khanza-etl\fact_belanjalogistik.py:49: UserWarning: pandas only supports SQLAlchemy connectable (engine/connection) or database string URI or sqlite3 DBAPI2 connection. Other DBAPI2 objects are not tested. Please consider using SQLAlchemy.
+  df_detail = pd.read_sql(query_detail, source_conn)
+
+=== 2025-10-31 05:00:33.160759 : Selesai fact_belanjalogistik.py ===
+
+=== 2025-11-01 05:00:33.555877 : Mulai fact_belanjalogistik.py ===
+1790 baris berhasil dimasukkan ke fact_belanjalogistik di database 'dwmutiara'.
+
+[ERROR]
+E:\Downloads\visuadata\khanza-etl\fact_belanjalogistik.py:35: UserWarning: pandas only supports SQLAlchemy connectable (engine/connection) or database string URI or sqlite3 DBAPI2 connection. Other DBAPI2 objects are not tested. Please consider using SQLAlchemy.
+  df_header = pd.read_sql(query_header, source_conn)
+E:\Downloads\visuadata\khanza-etl\fact_belanjalogistik.py:49: UserWarning: pandas only supports SQLAlchemy connectable (engine/connection) or database string URI or sqlite3 DBAPI2 connection. Other DBAPI2 objects are not tested. Please consider using SQLAlchemy.
+  df_detail = pd.read_sql(query_detail, source_conn)
+
+=== 2025-11-01 05:00:35.868074 : Selesai fact_belanjalogistik.py ===
+
+=== 2025-11-02 05:00:30.705104 : Mulai fact_belanjalogistik.py ===
+1790 baris berhasil dimasukkan ke fact_belanjalogistik di database 'dwmutiara'.
+
+[ERROR]
+E:\Downloads\visuadata\khanza-etl\fact_belanjalogistik.py:35: UserWarning: pandas only supports SQLAlchemy connectable (engine/connection) or database string URI or sqlite3 DBAPI2 connection. Other DBAPI2 objects are not tested. Please consider using SQLAlchemy.
+  df_header = pd.read_sql(query_header, source_conn)
+E:\Downloads\visuadata\khanza-etl\fact_belanjalogistik.py:49: UserWarning: pandas only supports SQLAlchemy connectable (engine/connection) or database string URI or sqlite3 DBAPI2 connection. Other DBAPI2 objects are not tested. Please consider using SQLAlchemy.
+  df_detail = pd.read_sql(query_detail, source_conn)
+
+=== 2025-11-02 05:00:32.964673 : Selesai fact_belanjalogistik.py ===
+
+=== 2025-11-03 05:00:33.198494 : Mulai fact_belanjalogistik.py ===
+1790 baris berhasil dimasukkan ke fact_belanjalogistik di database 'dwmutiara'.
+
+[ERROR]
+E:\Downloads\visuadata\khanza-etl\fact_belanjalogistik.py:35: UserWarning: pandas only supports SQLAlchemy connectable (engine/connection) or database string URI or sqlite3 DBAPI2 connection. Other DBAPI2 objects are not tested. Please consider using SQLAlchemy.
+  df_header = pd.read_sql(query_header, source_conn)
+E:\Downloads\visuadata\khanza-etl\fact_belanjalogistik.py:49: UserWarning: pandas only supports SQLAlchemy connectable (engine/connection) or database string URI or sqlite3 DBAPI2 connection. Other DBAPI2 objects are not tested. Please consider using SQLAlchemy.
+  df_detail = pd.read_sql(query_detail, source_conn)
+
+=== 2025-11-03 05:00:36.190961 : Selesai fact_belanjalogistik.py ===
+
+=== 2025-11-04 05:00:31.090829 : Mulai fact_belanjalogistik.py ===
+1790 baris berhasil dimasukkan ke fact_belanjalogistik di database 'dwmutiara'.
+
+[ERROR]
+E:\Downloads\visuadata\khanza-etl\fact_belanjalogistik.py:35: UserWarning: pandas only supports SQLAlchemy connectable (engine/connection) or database string URI or sqlite3 DBAPI2 connection. Other DBAPI2 objects are not tested. Please consider using SQLAlchemy.
+  df_header = pd.read_sql(query_header, source_conn)
+E:\Downloads\visuadata\khanza-etl\fact_belanjalogistik.py:49: UserWarning: pandas only supports SQLAlchemy connectable (engine/connection) or database string URI or sqlite3 DBAPI2 connection. Other DBAPI2 objects are not tested. Please consider using SQLAlchemy.
+  df_detail = pd.read_sql(query_detail, source_conn)
+
+=== 2025-11-04 05:00:33.360673 : Selesai fact_belanjalogistik.py ===
+
+=== 2025-11-05 05:00:29.911539 : Mulai fact_belanjalogistik.py ===
+1790 baris berhasil dimasukkan ke fact_belanjalogistik di database 'dwmutiara'.
+
+[ERROR]
+E:\Downloads\visuadata\khanza-etl\fact_belanjalogistik.py:35: UserWarning: pandas only supports SQLAlchemy connectable (engine/connection) or database string URI or sqlite3 DBAPI2 connection. Other DBAPI2 objects are not tested. Please consider using SQLAlchemy.
+  df_header = pd.read_sql(query_header, source_conn)
+E:\Downloads\visuadata\khanza-etl\fact_belanjalogistik.py:49: UserWarning: pandas only supports SQLAlchemy connectable (engine/connection) or database string URI or sqlite3 DBAPI2 connection. Other DBAPI2 objects are not tested. Please consider using SQLAlchemy.
+  df_detail = pd.read_sql(query_detail, source_conn)
+
+=== 2025-11-05 05:00:32.079726 : Selesai fact_belanjalogistik.py ===
